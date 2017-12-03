@@ -1,6 +1,6 @@
 all: day1
 
-foo:
+day1:
 	g++ --std=c++11 -Wall day1.cpp -o day1.exe
 
 #hello.o: hello.c
