@@ -56,7 +56,7 @@ int part1(const string & s)
 
 int main(int argc, char const *argv[])
 {
-    auto str = get_file_2string("day1.txt");
+    auto str = get_file_2string("../inputs/day1.txt");
 
     testEQ(3,part1,"1122");
     testEQ(4,part1,"1111");

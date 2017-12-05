@@ -12,7 +12,7 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
     ifstream ifs;
-    ifs.open("day2.txt");
+    ifs.open("../inputs/day2.txt");
 
     istream & is = ifs;
 
